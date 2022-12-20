@@ -1,7 +1,7 @@
 #include "main"
 /**
  * reset_to_98 - update the value of a var using pointers
- * @n: intto update
+ * @n: int to update
  * Return: 0
  */
 
